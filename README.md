@@ -1,3 +1,2 @@
-# VisionZ - Virtual Assistant
-A smart AI-powered virtual assistant with face authentication.
+# VisionZ - Sentiment and Sales Insights Prediction
 
