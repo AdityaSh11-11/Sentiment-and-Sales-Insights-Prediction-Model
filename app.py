@@ -43,7 +43,7 @@ from sklearn.metrics import classification_report
 
 
 #set the Enviroment Variable :-
-os.environ["PATH"] += os.pathsep + r"C:\Aditya project\Softpro-Analytics\ffmpeg\bin"
+os.environ["PATH"] += os.pathsep + r"C:\Important_Material\Projects\Softpro-Analytics\ffmpeg\bin"
 
 
 # Optional imports are wrapped – they may fail gracefully if not installed
@@ -64,8 +64,8 @@ from transformers import pipeline
 # -----------------------------
 # Streamlit Page Config
 # -----------------------------
-st.set_page_config(page_title="Softpro Sentiment & Sales Insights", layout="wide")
-st.title("Softpro Sentiment & Sales Insights")
+st.set_page_config(page_title="Sentiment & Sales Insights", layout="wide")
+st.title("Sentiment & Sales Insights Prediction Model")
 st.caption("Audio + CRM logs → Transcripts → Sentiment → Insights → Recommendations")
 
 # -----------------------------
